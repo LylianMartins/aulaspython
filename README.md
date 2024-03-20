@@ -1,2 +1,5 @@
-# Python-Curso-Modulo-01
- Python - Módulo 01 - Curso em Vídeo (Gustavo Guanabara) Aulas e Exercícios
+**CURSO DE PYTHON**
+
+ _Módulo 01 - Curso em Vídeo (Gustavo Guanabara)_
+ 
+ Aulas e exercícios resolvidos
